@@ -4,6 +4,7 @@
       "runtime": "nodejs20.x"
     }
   },
+  {
   "rewrites": [
     {
       "source": "/(.*)",
